@@ -112,11 +112,11 @@ Ecommerce-Sales-Dashboard/
 
 ## Dashboard Preview
 
-Insert a screenshot of the dashboard below:
 
-```markdown
+
+
 ![Dashboard Preview](Dashboard_Screenshot.png)
-```
+
 
 ## Learning Outcomes
 
